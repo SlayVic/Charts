@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-01T19:31:36.598Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36 Edg/99.0.1150.55" etag="Ucjb1jUYv9ngvFtzs2br" version="17.4.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-04-01T19:32:19.904Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36 Edg/99.0.1150.55" etag="iUFaSQBtYyPFlK0NHKOX" version="17.4.0" type="github" pages="3">
   <diagram id="mXPk_WHV2KkbWPQwzzv6" name="FDD">
     <mxGraphModel dx="881" dy="543" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -314,7 +314,7 @@
         <mxCell id="bA-cm4Hina3u0EHqckUl-5" value="+Дата" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="bA-cm4Hina3u0EHqckUl-2">
           <mxGeometry y="116" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jDOKZpxNm-RB4HIDTiij-6" value="+Кабінет" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="bA-cm4Hina3u0EHqckUl-2">
+        <mxCell id="jDOKZpxNm-RB4HIDTiij-6" value="+Номер кабінету" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="bA-cm4Hina3u0EHqckUl-2">
           <mxGeometry y="146" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jDOKZpxNm-RB4HIDTiij-13" value="+Запис до карти" style="text;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;labelBackgroundColor=none;fillColor=none;" vertex="1" parent="bA-cm4Hina3u0EHqckUl-2">
