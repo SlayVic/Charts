@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-10T18:43:01.648Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36 Edg/100.0.1185.36" etag="lh-97niMCLhR79y9913j" version="17.4.0" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-04-10T18:59:13.885Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36 Edg/100.0.1185.36" etag="JffNHvX5C6sFakD5vITB" version="17.4.0" type="github" pages="6">
   <diagram id="_UskwaHjsK3cTjWXo-qu" name="FDD">
     <mxGraphModel dx="1064" dy="657" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -839,7 +839,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="E9klei7SwYWci2WTlseh" name="BPMN">
-    <mxGraphModel dx="1216" dy="750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1965" dy="1160" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -964,7 +964,7 @@
         <mxCell id="8Fc49vDhlUz9kEKMXbQt-57" value="Зарахування студенту на курс" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;taskMarker=abstract;" vertex="1" parent="8Fc49vDhlUz9kEKMXbQt-4">
           <mxGeometry x="1300" y="40" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="8Fc49vDhlUz9kEKMXbQt-59" value="Студенки" style="shape=datastore;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" vertex="1" parent="8Fc49vDhlUz9kEKMXbQt-4">
+        <mxCell id="8Fc49vDhlUz9kEKMXbQt-59" value="Студени" style="shape=datastore;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" vertex="1" parent="8Fc49vDhlUz9kEKMXbQt-4">
           <mxGeometry x="1440" y="120" width="100" height="85" as="geometry" />
         </mxCell>
         <mxCell id="8Fc49vDhlUz9kEKMXbQt-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="8Fc49vDhlUz9kEKMXbQt-4" source="8Fc49vDhlUz9kEKMXbQt-65" target="8Fc49vDhlUz9kEKMXbQt-57">
