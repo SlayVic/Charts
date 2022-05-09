@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-10T19:03:22.487Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36 Edg/100.0.1185.36" etag="wQFEEXW-ZORHDxUzwWse" version="17.4.0" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-05-09T17:01:50.922Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36 Edg/101.0.1210.39" etag="QLADsWHCaToaiF2yTmgR" version="18.0.2" type="github" pages="7">
   <diagram id="_UskwaHjsK3cTjWXo-qu" name="FDD">
-    <mxGraphModel dx="1064" dy="657" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1277" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -995,6 +995,14 @@
         <mxCell id="8Fc49vDhlUz9kEKMXbQt-9" value="Фільтри - предметна область, тривалість, ціна, назва(фільтр назви вводиться користувачем), та інше&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="110" y="220" width="680" height="20" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="4oqbxhJ2-N0ran0BbZ4I" name="SADT">
+    <mxGraphModel dx="1277" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
