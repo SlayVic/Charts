@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-15T20:03:20.344Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36 Edg/101.0.1210.47" etag="U1ATX0DFXfQiUOuVabWS" version="18.0.2" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2022-05-15T20:04:54.438Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36 Edg/101.0.1210.47" etag="dAD6l-stlpSCJ0urn-hK" version="18.0.2" type="github" pages="10">
   <diagram id="_UskwaHjsK3cTjWXo-qu" name="FDD">
     <mxGraphModel dx="912" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1363,7 +1363,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="5rVjQi4S9-zn1qKKp4gm" name="Діаграми прецедентів">
-    <mxGraphModel dx="1064" dy="628" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="730" dy="431" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1414,14 +1414,14 @@
           <mxGeometry x="446" y="320" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="sVysnrTLdefFszQPddxu-1" value="Вибір курсу" style="ellipse;whiteSpace=wrap;html=1;strokeColor=default;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="240" y="390" width="100" height="50" as="geometry" />
+          <mxGeometry x="224" y="383" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="sVysnrTLdefFszQPddxu-12" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;endArrow=open;endFill=0;" edge="1" parent="1" source="sVysnrTLdefFszQPddxu-2" target="sVysnrTLdefFszQPddxu-1">
+        <mxCell id="sVysnrTLdefFszQPddxu-12" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;dashed=1;endArrow=open;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="sVysnrTLdefFszQPddxu-2" target="sVysnrTLdefFszQPddxu-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sVysnrTLdefFszQPddxu-13" value="&lt;span style=&quot;&quot;&gt;Include&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="sVysnrTLdefFszQPddxu-12">
           <mxGeometry x="-0.5481" y="1" relative="1" as="geometry">
-            <mxPoint x="21" y="5" as="offset" />
+            <mxPoint x="-7" y="-11" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="sVysnrTLdefFszQPddxu-2" value="Реєстрація на курс" style="ellipse;whiteSpace=wrap;html=1;strokeColor=default;fillColor=none;" vertex="1" parent="1">
@@ -1476,7 +1476,7 @@
         <mxCell id="sVysnrTLdefFszQPddxu-28" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;strokeColor=default;" edge="1" parent="1" source="E1s6110G9hyCFkCZhtsK-2" target="sVysnrTLdefFszQPddxu-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sVysnrTLdefFszQPddxu-29" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;dashed=1;endArrow=open;endFill=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="sVysnrTLdefFszQPddxu-19" target="sVysnrTLdefFszQPddxu-2">
+        <mxCell id="sVysnrTLdefFszQPddxu-29" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;dashed=1;endArrow=open;endFill=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="sVysnrTLdefFszQPddxu-19" target="sVysnrTLdefFszQPddxu-2">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="356.0000000000007" y="445" as="sourcePoint" />
             <mxPoint x="309.9999999999993" y="425" as="targetPoint" />
