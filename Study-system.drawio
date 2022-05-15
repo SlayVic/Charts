@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-15T20:04:54.438Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36 Edg/101.0.1210.47" etag="dAD6l-stlpSCJ0urn-hK" version="18.0.2" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2022-05-15T20:06:04.798Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36 Edg/101.0.1210.47" etag="UpnQQXwZOZ0WH9a0jb21" version="18.0.2" type="github" pages="10">
   <diagram id="_UskwaHjsK3cTjWXo-qu" name="FDD">
     <mxGraphModel dx="912" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1386,7 +1386,7 @@
           <mxGeometry x="10" y="10" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="E1s6110G9hyCFkCZhtsK-4" value="&lt;span style=&quot;font-size: 9px;&quot;&gt;Система Електронного&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 9px;&quot;&gt;Навчання&lt;/span&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;width=156;height=30;" vertex="1" parent="1">
-          <mxGeometry x="120" y="170" width="486" height="430" as="geometry" />
+          <mxGeometry x="120" y="80" width="486" height="520" as="geometry" />
         </mxCell>
         <mxCell id="QOwmMB0M11UXWiGrhyfV-2" value="Реєстрація" style="ellipse;whiteSpace=wrap;html=1;strokeColor=default;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="276" y="200" width="100" height="50" as="geometry" />
@@ -1486,6 +1486,23 @@
           <mxGeometry x="-0.5481" y="1" relative="1" as="geometry">
             <mxPoint x="-24" y="18" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="sVysnrTLdefFszQPddxu-31" value="Отримання сертифікату" style="ellipse;whiteSpace=wrap;html=1;strokeColor=default;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="486" y="110" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="sVysnrTLdefFszQPddxu-32" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.657;entryY=-0.003;entryDx=0;entryDy=0;dashed=1;labelBackgroundColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=open;endFill=0;strokeColor=default;entryPerimeter=0;" edge="1" parent="1" source="sVysnrTLdefFszQPddxu-31" target="sVysnrTLdefFszQPddxu-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="495.9999999999993" y="445" as="sourcePoint" />
+            <mxPoint x="510.4408888717712" y="432.5751928564812" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sVysnrTLdefFszQPddxu-33" value="Expand" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" connectable="0" parent="sVysnrTLdefFszQPddxu-32">
+          <mxGeometry x="0.3385" y="-1" relative="1" as="geometry">
+            <mxPoint x="25" y="3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sVysnrTLdefFszQPddxu-34" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;strokeColor=default;" edge="1" parent="1" source="OPxCFYwnGQsLAsoOrMa7-2" target="sVysnrTLdefFszQPddxu-31">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
